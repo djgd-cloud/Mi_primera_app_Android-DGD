@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComicDGD</string>
+    <string name="titulo_biblioteca">Mi Biblioteca</string>
+    <string name="subtitulo_recientes">Continuar Leyendo</string>
+    <string name="boton_continuar">Reanudar Lectura</string>
+    <string name="boton_novedades">Novedades</string>
+    <string name="estado_leyendo">Mis Lecturas</string>
+    <string name="sinopsis_titulo">Sinopsis de la obra</string>
+
+    <!--Texto parametrizado -->
+    <string name="progreso_lectura">%1$s - Capítulo %2$d</string>
+
+    <!-- Array -->
+    <string-array name="generos">
+        <item> Shonen </item>
+        <item>Seinen</item>
+        <item>Shojo</item>
+        <item>Ciencia Ficción</item>
+        <item>Fantasía</item>
+        </string-array>
+</resources>
