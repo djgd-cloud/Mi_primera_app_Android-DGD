@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MangaVerse</string>
+    <string name="titulo_biblioteca">My Library</string>
+    <string name="subtitulo_recientes">Continue Reading</string>
+    <string name="boton_continuar">Resume Reading</string>
+    <string name="boton_explorar">Explore Catalog</string>
+    <string name="estado_leyendo">In Progress</string>
+    <string name="sinopsis_titulo">Synopsis</string>
+
+    <string name="progreso_lectura">%1$s - Chapter %2$d</string>
+
+    <string-array name="generos_manga">
+        <item>Shonen</item>
+        <item>Seinen</item>
+        <item>Shojo</item>
+        <item>Sci-Fi</item>
+        <item>Fantasy</item>
+    </string-array>
+</resources>
