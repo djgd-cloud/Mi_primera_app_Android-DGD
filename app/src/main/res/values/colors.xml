@@ -18,4 +18,5 @@
     <!-- Textos auxiliares -->
     <color name="color_texto_secundario">#A0A0A5</color>
 
+    <!--La paleta está inspirada en distintos colores que el usuario suele ver en las aplicaciones de lectura de comics y mangas actuales. Esto lo hacemos para que el usuario se sienta cómodo visualmente. -->
 </resources>
