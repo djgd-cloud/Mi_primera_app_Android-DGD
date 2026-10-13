@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Márgenes y espaciados generales -->
+    <dimen name="espaciado_pequeno">8dp</dimen>
+    <dimen name="espaciado_medio">16dp</dimen>
+    <dimen name="espaciado_grande">24dp</dimen>
+    <dimen name="radio_esquina_tarjeta">12dp</dimen>
+
+    <!-- Tamaños de componentes -->
+    <dimen name="tamano_icono">24dp</dimen>
+    <dimen name="altura_portada">220dp</dimen>
+
+    <!-- Tamaños de tipografía -->
+    <dimen name="texto_titulo">22sp</dimen>
+    <dimen name="texto_subtitulo">16sp</dimen>
+    <dimen name="texto_cuerpo">14sp</dimen>
+</resources>

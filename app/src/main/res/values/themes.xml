@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
 
-    <style name="Theme.PMDM_P1_DiegoGarcia" parent="android:Theme.Material.Light.NoActionBar" />
-</resources>
+    <resources xmlns:tools="http://schemas.android.com/tools">
+        <style name="Theme.PMDM_P1_DiegoGarcia" parent="Theme.Material3.DayNight.NoActionBar">
+            <item name="colorPrimary">@color/color_primario</item>
+            <item name="android:windowBackground">@color/color_fondo</item>
+        </style>
+
+        <!-- Estilo propio reutilizable 1: Títulos de sección -->
+        <style name="EstiloTituloSeccion">
+            <item name="android:textSize">@dimen/texto_titulo</item>
+            <item name="android:textColor">@color/color_texto_principal</item>
+            <item name="android:textStyle">bold</item>
+        </style>
+
+        <!-- Estilo propio reutilizable 2: Botón de acción destacado -->
+        <style name="EstiloBotonAccion">
+            <item name="android:textColor">@color/color_texto_principal</item>
+            <item name="android:backgroundTint">@color/color_primario</item>
+            <item name="android:textSize">@dimen/texto_cuerpo</item>
+            <item name="android:textStyle">bold</item>
+        </style>
+    </resources>
