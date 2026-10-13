@@ -13,7 +13,7 @@
 
     <!-- Array -->
     <string-array name="generos">
-        <item> Shonen </item>
+        <item>Shonen </item>
         <item>Seinen</item>
         <item>Shojo</item>
         <item>Ciencia Ficción</item>
