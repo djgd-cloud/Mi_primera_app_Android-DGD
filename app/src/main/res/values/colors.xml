@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fondo principal oscuro para lectura descansada -->
+    <color name="color_fondo">#121316</color>
+
+    <!-- Superficie para tarjetas de manga / contenedores -->
+    <color name="color_superficie">#1E1F24</color>
+
+    <!-- Color primario de énfasis -->
+    <color name="color_primario">#FF6B35</color>
+
+    <!-- Color secundario para botones de acción secundaria y/o etiquetas -->
+    <color name="color_secundario">#004E89</color>
+
+    <!-- Textos de máxima legibilidad sobre fondo oscuro -->
+    <color name="color_texto_principal">#F7F7F7</color>
+
+    <!-- Textos auxiliares -->
+    <color name="color_texto_secundario">#A0A0A5</color>
+
+</resources>
